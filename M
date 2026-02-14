@@ -1,1 +1,1 @@
-print("Arquivo trocado")
+print("Arquivo trocadok")
